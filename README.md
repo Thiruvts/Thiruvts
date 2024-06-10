@@ -11,8 +11,8 @@
 | SNo| Languages/Framework     | SNo| Languages/Framework     | SNo| Languages/Framework     | SNo| Languages     |             
 |-----:|---------------|------|---------------|------|---------------|------|---------------|
 |     1|   HTML5     |     2| CSS3         |     3|   SASS  |     4| PHP   |
-|     5| Tailwind    |     6| MongoDB       |     7| Next Js       |     8| MYSQL         |
-|     9| React      |    10| Angular         |    11|        |    12|         |
+|     5| Tailwind    |     6| MongoDB       |     7| React       |     8| MYSQL         |
+|     9| Next Js      |    10| Angular         |    11|        |    12|         |
 
 
 
