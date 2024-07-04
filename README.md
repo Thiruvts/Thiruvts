@@ -21,3 +21,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiruvts&layout=compact)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiruvts)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thiruvts)](https://github.com/Thiruvts/github-profile-trophy)
+
